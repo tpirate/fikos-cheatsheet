@@ -34,3 +34,8 @@ also a swissknife [viewdns](https://viewdns.info)
 of course [gobuster](https://github.com/OJ/gobuster), [wappalyzer](https://www.wappalyzer.com/) and [whatruns](https://www.whatruns.com/)
 seems to be cool, will learn and try sometime [recon-ng](https://github.com/lanmaster53/recon-ng) by lanmaster53
 [just had a look seems cool](https://osintteam.blog/how-to-get-started-in-osint-e99d21833650) by CassiusXIII and also reminded me of [the og exit the matrix article](https://stalluminati.neocities.org/matrix)... oh and this matrix SHIT LOOK WHAT I FOUND MA [*](https://25.wf/posts/2014-09-19-exit-the-matrix.html)
+
+
+# Work in progress.
+### todo's
+Create a cheatsheeet for everything i use like: materialize, django, linux, react and so on...
